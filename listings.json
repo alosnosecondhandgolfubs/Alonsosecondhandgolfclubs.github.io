@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Titleist TSi3 Driver",
+    "category": "Drivers",
+    "price": 180,
+    "condition": "Excellent",
+    "description": "2021 model, 9° loft, Tensei AV Blue shaft stiff flex. Barely used, original headcover included. No scratches.",
+    "image": "https://placehold.co/400x280/1B3A2D/C9A84C?text=Titleist+TSi3+Driver"
+  },
+  {
+    "id": 2,
+    "title": "Callaway Apex Iron Set (4-PW)",
+    "category": "Irons",
+    "price": 320,
+    "condition": "Good",
+    "description": "Full set of 7 irons with True Temper steel shafts, regular flex. Light bag wear on soles, grooves in great condition.",
+    "image": "https://placehold.co/400x280/1B3A2D/C9A84C?text=Callaway+Apex+Irons"
+  },
+  {
+    "id": 3,
+    "title": "TaylorMade Spider EX Putter",
+    "category": "Putters",
+    "price": 95,
+    "condition": "Very Good",
+    "description": "34 inch, right hand. Pure white finish with red accents. SuperStroke grip, alignment aids intact.",
+    "image": "https://placehold.co/400x280/1B3A2D/C9A84C?text=TaylorMade+Spider+Putter"
+  },
+  {
+    "id": 4,
+    "title": "Ping G425 Fairway Wood (3W)",
+    "category": "Fairway Woods",
+    "price": 110,
+    "condition": "Excellent",
+    "description": "15° loft, Alta CB Slate shaft regular flex. Adjustable hosel, all settings available. Headcover included.",
+    "image": "https://placehold.co/400x280/1B3A2D/C9A84C?text=Ping+G425+3+Wood"
+  },
+  {
+    "id": 5,
+    "title": "Titleist Vokey SM9 Wedge Set",
+    "category": "Wedges",
+    "price": 145,
+    "condition": "Good",
+    "description": "52°, 56° and 60° set. Brushed steel finish, Dynamic Gold shafts. Moderate use, grooves still sharp.",
+    "image": "https://placehold.co/400x280/1B3A2D/C9A84C?text=Vokey+SM9+Wedges"
+  },
+  {
+    "id": 6,
+    "title": "Sun Mountain C-130 Cart Bag",
+    "category": "Bags",
+    "price": 75,
+    "condition": "Good",
+    "description": "14-way divider, cart-friendly base, multiple pockets. Dark navy with grey trim. All zips fully functional.",
+    "image": "https://placehold.co/400x280/1B3A2D/C9A84C?text=Sun+Mountain+Cart+Bag"
+  }
+]
