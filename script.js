@@ -25,7 +25,7 @@ async function loadListings(containerId, limit = null, filterCategory = null) {
   container.innerHTML = '<div class="loading">Loading listings...</div>';
 
   try {
-    const res = await fetch('listings.json');
+    const res = await fetch('./listings.json');
     if (!res.ok) throw new Error('Failed to load listings');
     let data = await res.json();
 
