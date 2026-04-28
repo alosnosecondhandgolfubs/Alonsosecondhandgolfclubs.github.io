@@ -65,7 +65,7 @@ function createCard(item) {
         <span class="card-condition ${conditionClass}">${item.condition}</span>
         <p class="card-description">${item.description}</p>
         <div class="card-footer">
-          <div class="card-price">£${item.price}<span> ono</span></div>
+          <div class="card-price">$${item.price}<span> ono</span></div>
           <a href="contact.html?item=${encodeURIComponent(item.title)}" class="card-enquire">Enquire →</a>
         </div>
       </div>
